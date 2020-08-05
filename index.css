@@ -524,7 +524,7 @@ body
    border-radius: 4px;
    background-color: #F7C200;
    background-image: none;
-   color: #FFFFFF;
+   color: #000000;
    font-family: Arial;
    font-weight: normal;
    font-size: 13px;
@@ -983,7 +983,7 @@ body
    visibility: visible;
    display: inline-block;
    margin: 0;
-   color: #FFFFFF;
+   color: #000000;
    font-size: 15px;
    font-family: Arial;
    font-weight: normal;
@@ -1356,7 +1356,7 @@ body
    visibility: visible;
    display: inline-block;
    margin: 0;
-   color: #FFFFFF;
+   color: #000000;
    font-size: 11px;
    font-family: Arial;
    font-weight: normal;
