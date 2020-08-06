@@ -1967,7 +1967,7 @@ body
    margin: 0;
    padding: 10px 0px 0px 0px;
    color: #000000;
-   font-size: 17px;
+   font-size: 19px;
    font-family: "Rawk Brush";
    font-weight: bold;
    font-style: normal;
@@ -1987,7 +1987,7 @@ body
    color: #000000;
    font-family: "Rawk Brush";
    font-weight: bold;
-   font-size: 17px;
+   font-size: 19px;
 }
 #wb_LayoutGrid2
 {
@@ -2146,7 +2146,7 @@ body
    margin: 0;
    padding: 0;
    color: #FFFFFF;
-   font-size: 16px;
+   font-size: 19px;
    font-family: "Rawk Brush";
    font-weight: bold;
    font-style: normal;
@@ -2166,6 +2166,6 @@ body
    color: #FFFFFF;
    font-family: "Rawk Brush";
    font-weight: bold;
-   font-size: 16px;
+   font-size: 19px;
 }
 }
